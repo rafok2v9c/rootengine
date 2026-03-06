@@ -1,7 +1,7 @@
 #!/bin/bash
 # rootengine.sh - Enhanced system lockdown with security tool neutralization
 # Compatible with: Ubuntu, Debian, Fedora, Linux Mint, Arch Linux, Manjaro, openSUSE, Pop!_OS, Kali Linux, AlmaLinux and other Debian based OS
-# Developer: @rafigk2v9c
+# Developer: @rafok2v9c
 # Version: 1.0
 
 RED='\033[0;31m'
@@ -23,7 +23,7 @@ show_help() {
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝ v1.0 
 EOF
     echo -e "${NC}"
-    echo -e "${CYAN}Author: @rafigk2v9c${NC}"
+    echo -e "${CYAN}Author: @rafok2v9c${NC}"
     echo ""
     cat << 'HELP_EOF'
 ROOTENGINE - System Lockdown Tool
